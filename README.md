@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LisaB1234
+- 👀 I’m interested in developing my coding skills
+- 🌱 I’m currently learning Python
